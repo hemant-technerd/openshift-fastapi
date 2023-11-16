@@ -1,2 +1,2 @@
 UPGRADE_PIP_LATEST=true
-APP_CONFIG=config.py
+APP_FILE=main.py
