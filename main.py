@@ -5,7 +5,7 @@ app = FastAPI()
 
 @app.get('/')
 def index():
-    return {'data': 'Hello FastAPI!'}
+    return {'data': 'FASTAPI root context!!'}
 
 @app.get('/message')
 def index():
